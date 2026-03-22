@@ -55,7 +55,7 @@ int _lineCount(int n,bool isPicked[10])
     return count;
 }
 
-//피드백: 문제를 2개의 아이를 선택한 뒤 나머지 부분문제로 쪼개지 못했음. 한참 못풀고 답지 봄.
+//피드백: 문제를 2개의 아이를 선택한 뒤 나머지 부분문제로 쪼개지 못했음. 한참 못풀고 답지 봄
 
 
 int LineCount(int n)
